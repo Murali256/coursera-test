@@ -1,2 +1,2 @@
-# cousrera-test
+# coursera-test
 For the courses on coursera
